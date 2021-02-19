@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: "Courier New", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*background: rgb(2,0,36);*/
+  background: linear-gradient(90deg, rgba(2,0,36,1) 27%, rgba(9,9,121,1) 58%, rgba(0,14,255,1) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button{
+  cursor: pointer;
+}
